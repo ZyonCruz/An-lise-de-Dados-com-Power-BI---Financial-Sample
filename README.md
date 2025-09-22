@@ -1,4 +1,4 @@
-# An-lise-de-Dados-com-Power-BI-Financial-Sample
+# Analise-de-Dados-com-Power-BI--Financial-Sample
 
 Este repositório contém a resolução de um projeto prático do curso de Power BI da DIO, que visa aprimorar as habilidades de criação de relatórios e dashboards. O projeto utiliza a base de dados de vendas do GitHub (`power_bi_analyst`) para construir um relatório interativo e visualmente claro.
 
